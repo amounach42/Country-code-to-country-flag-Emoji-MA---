@@ -9,5 +9,3 @@ const countryFlags = (countryCode) =>
 //console.log(countryFlags("MA")) =>  🇲🇦
 //console.log(countryFlags("US")) =>  🇺🇸
 //console.log(countryFlags("GB")) =>  🇬🇧
-
-console.log(countryFlags("ES"));
