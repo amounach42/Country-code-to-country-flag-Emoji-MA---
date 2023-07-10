@@ -28,5 +28,5 @@ To use the `countryFlags` function, follow these steps:
          const flags2 = countryFlags("GB");
          console.log(flags2); // Output: 🇬🇧
 
-         const flags3 = countryFlags("FR");
-         console.log(flags3); // Output: 🇫🇷
+         const flags3 = countryFlags("ES");
+         console.log(flags3); // Output: 🇪🇸
