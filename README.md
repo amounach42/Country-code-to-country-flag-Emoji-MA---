@@ -20,7 +20,7 @@ To use the `countryFlags` function, follow these steps:
     Here are some examples of converting country codes to flag emojis:
 
          const flags = countryFlags("MA");
-         console.log(flags1); // Output: 🇲🇦
+         console.log(flags); // Output: 🇲🇦
 
          const flags1 = countryFlags("US");
          console.log(flags1); // Output: 🇺🇸
